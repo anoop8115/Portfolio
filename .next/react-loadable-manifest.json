@@ -1,38 +1,8 @@
 {
-  "./blog-five.md": [
+  "./dev/noop": [
     {
-      "id": "cGqq",
-      "file": "static/chunks/14.47f0d2c95942b28c787b.js"
-    }
-  ],
-  "./blog-four.md": [
-    {
-      "id": "Xoaz",
-      "file": "static/chunks/15.50b04abca521dc0df69e.js"
-    }
-  ],
-  "./blog-one.md": [
-    {
-      "id": "QM51",
-      "file": "static/chunks/16.2477683b4ef23589bdaa.js"
-    }
-  ],
-  "./blog-six.md": [
-    {
-      "id": "1w4Z",
-      "file": "static/chunks/17.c7daecbc2472f2c8ace0.js"
-    }
-  ],
-  "./blog-three.md": [
-    {
-      "id": "xoYT",
-      "file": "static/chunks/18.bd8771be3cc4334e137d.js"
-    }
-  ],
-  "./blog-two.md": [
-    {
-      "id": "7+u+",
-      "file": "static/chunks/19.a38d8389d192cd1a5dac.js"
+      "id": "./node_modules/next/dist/client/dev/noop.js",
+      "file": "static/chunks/0.js"
     }
   ]
 }
